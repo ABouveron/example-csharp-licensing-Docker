@@ -16,7 +16,7 @@
         <PackageReference Include="DotNetEnv" Version="2.5.0"/>
         <PackageReference Include="Microsoft.Extensions.Configuration" Version="7.0.0"/>
         <PackageReference Include="Microsoft.NET.Test.Sdk" Version="*"/>
-        <PackageReference Include="RestSharp" Version="110.2.0"/>
+        <PackageReference Include="RestSharp" Version="112.0.0"/>
         <PackageReference Include="xunit" Version="*"/>
         <PackageReference Include="Portable.BouncyCastle" Version="*"/>
         <PackageReference Include="NSec.Cryptography" Version="*"/>
